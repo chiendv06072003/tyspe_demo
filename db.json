@@ -1,0 +1,11 @@
+{
+  "products": [
+    {
+      "name": "chien1234568",
+      "price": "400",
+      "image": "https://picsum.photos/150/100",
+      "description": "h",
+      "id": 10
+    }
+  ]
+}
